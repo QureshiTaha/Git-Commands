@@ -1,1 +1,5 @@
-print("Hello World")
+print("git init")
+print("git status")
+print("git add")
+print("git commit")
+print("git log")
